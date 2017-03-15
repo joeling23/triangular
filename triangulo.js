@@ -1,5 +1,6 @@
 
 function areglaPeo(peo){
-  console.log("#");
+  console.log(peo);
+  for(){console.log();}
 }  
 areglaPeo(8);
