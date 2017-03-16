@@ -7,8 +7,9 @@ function a(){
     console.log("casa");
     return b;
   }
-  console.log();
+  console.log("jungla");
   return a;
 }
 a();
+b();
 
