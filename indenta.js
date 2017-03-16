@@ -12,5 +12,5 @@ function a(){
   return a;
 }
 a();
-
+c();
 
