@@ -1,5 +1,9 @@
 function a(){
   function b(){
-}
-  return a;
+   function c(){
+    return c; 
+   }
+  return b;
+ }
+ return a;
 }
