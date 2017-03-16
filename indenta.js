@@ -11,6 +11,6 @@ function a(){
   b();
   return a;
 }
-
+a();
 
 
