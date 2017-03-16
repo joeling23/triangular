@@ -8,8 +8,9 @@ function a(){
     return b;
   }
   console.log("jungla");
+  b();
   return a;
 }
-a();
-b();
+
+
 
