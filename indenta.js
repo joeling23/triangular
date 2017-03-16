@@ -1,7 +1,7 @@
 function a(){
   function b(){
     function c(){ 
-     console.log();
+      console.log("brinquen");
       return c; 
     } 
     return b;
