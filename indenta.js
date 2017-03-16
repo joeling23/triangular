@@ -1,19 +1,10 @@
 function a(){
   function b(){
     function c(){ 
-      console.log("brinquen");
-      b();
-      return c; 
+      console.log("c");
     } 
-    console.log("casa");
-    c();
-    return b;
+    console.log("b");
   }
-  console.log("jungla");
-  b();
-  return a;
+  console.log("a");
 }
-a();
-b();
-c();
 
