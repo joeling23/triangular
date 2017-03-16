@@ -4,7 +4,10 @@ function a(){
       console.log("brinquen");
       return c; 
     } 
+    console.log("casa");
     return b;
   }
   return a;
 }
+
+
