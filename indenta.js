@@ -1,5 +1,5 @@
 function a(){
-  function b(){
+ function b(){
    function c(){
     return c; 
    }
